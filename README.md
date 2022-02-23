@@ -1,4 +1,4 @@
-### Olá eu sou o João Vítor 👋
+### Olá! Eu sou o João Vítor 👋
 
 - 🔭 Apenas estudando
 - 🌱 Estudando Front-end e Back-end
